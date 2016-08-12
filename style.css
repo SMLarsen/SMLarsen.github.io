@@ -38,12 +38,7 @@ h4 {
     padding-top: 5px;
 }
 
-.bus-desc {
-     text-align: center;
-     font-style: italic;
-}
-
 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
