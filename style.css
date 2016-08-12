@@ -43,18 +43,3 @@ h4 {
      font-style: italic;
 }
 
-.degree {
-    font-style: bold;
-    text-align: center;
-    border-top-style: solid;
-    border-width: 1px;
-    border-color: lightgrey;
-    padding-top: 5px;
-    font-size: 11px
-}
-
-.school {
-    text-align: center;
-    padding-top: 5px;
-    font-size: 11px
-}
