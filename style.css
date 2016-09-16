@@ -7,9 +7,8 @@ body {
 
 h1 {
     text-align: center;
-    border-bottom: 5px solid lightslategrey;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 1px;
     font-size: 200%;
     font-weight: bold;
     color: slategrey;
