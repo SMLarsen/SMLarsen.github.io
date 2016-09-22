@@ -7,6 +7,9 @@ body {
 
 h1 {
     text-align: center;
+/*    border-bottom: 5px solid lightslategrey;*/
+    padding-top: 10px;
+    padding-bottom: 1px;
     font-size: 200%;
     font-weight: bold;
     color: slategrey;
@@ -16,14 +19,15 @@ h2 {
     text-align: left;
     background-color: lightslategrey;
     color: white;
-    padding: 5px 0 5px 40px;
+    padding: 15px 0 5px 40px;
     font-size: 150%;
     font-weight: bold;
     font-variant: small-caps;
 }
 
 h3 {
-    padding-top: 5px;
+    padding-top: 15px;
+    padding-bottom: 1px;
     padding-left: 240px;
     font-size: 150%;
     font-weight: bold;
@@ -50,7 +54,7 @@ aside {
   float: left;
   padding: 0 10px 0 10px;
   width: 240px;
-  align: center;
+  text-align: center;
 }
 
 aside img {
@@ -98,13 +102,17 @@ h4.follower {
   background-color: lightgrey;
   margin-left: 15px;
   padding-bottom: 25px;
-  padding-left: 10px;
 }
 
 #contact p {
-  text-align: center;
-  color: lightslategrey;
+  text-align: left;
+  color: black;
   font-style: normal;
+  margin: 0, 15px, 0, 15px;
+}
+
+#education article {
+  column-count:2;
 }
 
 #education img {
